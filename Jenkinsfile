@@ -1,4 +1,3 @@
-
 stage('building job'){
   build 'job2'
 }
